@@ -51,6 +51,7 @@ function changeUserHand(hand){
 
 // const user = "paper";
 const computer = randomComputerChoice;
+
 // console.log(user);
 // console.log(computer);
 
