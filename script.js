@@ -5,7 +5,6 @@ function start(){
     playerChoice();
 }
 
-const element = document.querySelector('div#player2');
 
 const myArray = [
     "paper",
